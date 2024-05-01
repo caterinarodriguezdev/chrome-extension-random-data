@@ -1,0 +1,20 @@
+{
+    "name": "Datos Random de Programación",
+    "description": "Esta extensión te permite descubrir datos nuevos sobre programación por cada pestaña que abres de manera silenciosa para no molestar",
+    "version": "1.0",
+    "manifest_version": 3,
+    "background": {
+        "service_worker": "background.js"
+    },
+    "permissions": [
+        "tabs",
+        "notifications"
+    ],
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "./assets/icon.png"
+    },
+    "icons": {
+        "48": "./assets/icon.png"
+    }
+}
