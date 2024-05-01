@@ -3,7 +3,7 @@
 En este proyecto he creado una extensión de Chrome que te permite descubrir un dato aleatorio sobre programación cada vez que abres una nueva pestaña.
 
 ![Extension Screenshot](https://raw.githubusercontent.com/caterinarodriguezdev/chrome-extension-random-data/e797af98662ad8a340d8a87eba4ca779e6ad5469/docs/extension.png)
-![Notification Screenshot](https://raw.githubusercontent.com/caterinarodriguezdev/chrome-extension-random-data/main/docs/notificacion.png)
+![Notification Screenshot](https://raw.githubusercontent.com/caterinarodriguezdev/chrome-extension-random-data/e4571f06f25b10d1f1dcfd10ce4f93f503cc1cc9/docs/notificacion.png)
 
 ## ¿Cómo funciona?
 Para crear una extensión de Chrome se necesitan 3 archivos:
